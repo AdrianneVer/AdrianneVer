@@ -1,4 +1,6 @@
-Hi there, my name is Adrianne Veras
+Hi there, my name is Adrianne Veras 
+
+I am currently a master's student in computer science 💻
 
 - 🔭 I’m currently working on computational thinking
 - 🌱 I’m currently learning PHP, Python e JavaScrip,back end e front end
@@ -9,9 +11,5 @@ Hi there, my name is Adrianne Veras
 <!--
 **AdrianneVer/AdrianneVer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 
 - 😄 Pronouns: ...
-
--->
