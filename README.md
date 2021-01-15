@@ -11,7 +11,7 @@ I am currently a master's student in computer science - UFPA 💻
 
 ## About me
 
-[![Github Badge] (https://github.com/AdrianneVer)
+[![Github Badge](https://github.com/AdrianneVer)
 
 <!--
 **AdrianneVer/AdrianneVer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
