@@ -9,7 +9,8 @@ I am currently a master's student in Computer Science - UFPA 💻
 - ⚡ Fun fact: Paraense and Marvel fan.
 
 <div>
-  <a href="https://github.com/AdrianneVer">C  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianneVer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/AdrianneVer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianneVer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianneVer&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
