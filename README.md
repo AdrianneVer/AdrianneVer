@@ -8,10 +8,14 @@ I am currently a master's student in Computer Science - UFPA 💻
 - 💬 Ask me about on Computing in Education, Robotics, unplugged computing and arduino
 - 📫 How to reach me: adrianne.veras@outlook.com
 - ⚡ Fun fact: Paraense and Marvel fan.
+
+![Snake animation](https://github.com/AdrianneVeri/AdrianneVer/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 ## About me
 [![Github Badge](https://github.com/AdrianneVer)
 **AdrianneVer/AdrianneVer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 - 😄 Pronouns: ...
