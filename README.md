@@ -9,7 +9,7 @@ I am currently a master's student in Computer Science - UFPA 💻
 - 📫 How to reach me: adrianne.veras@outlook.com
 - ⚡ Fun fact: Paraense and Marvel fan.
 
-![Snake animation](https://github.com/AdrianneVer/AdrianneVer/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AdrianneVer/AdrianneVer/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 ## About me
