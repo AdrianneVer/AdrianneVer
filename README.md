@@ -1,8 +1,6 @@
 # Welcome!
 Hi there, my name is Adrianne Veras 
 
-I am currently a master's student in Computer Science - UFPA 💻
-
 - 🔭 I’m currently working on Computational Thinking
 - 🌱 Learning PHP, Python e JavaScrip,back-end and front-end
 - 💬 Ask me about on Computing in Education, Robotics, unplugged computing and arduino
