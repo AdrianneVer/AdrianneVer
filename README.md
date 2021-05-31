@@ -1,7 +1,7 @@
 # Welcome!
 Hi there, my name is Adrianne Veras 
 
-- 🔭 I’m currently working on Computational Thinking
+- 🔭 I’m currently working on Computational Thinking and chatbot with PLN and AI technique
 - 🌱 Learning PHP, Python e JavaScrip,back-end and front-end
 - 💬 Ask me about on Computing in Education, Robotics, unplugged computing and arduino
 - ⚡ Fun fact: Paraense and Marvel fan.
